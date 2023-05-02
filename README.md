@@ -6,7 +6,8 @@
 - 🌱 I’m currently learing Java, JS, SQL and Mobile Development;
 - 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.marques22@live.com)](mailto:carlos.marques22@live.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos--marques/)](https://www.linkedin.com/in/carlos--marques/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351911537956)
 - ⚡ Fun fact about me, I like riding concrete waves;
-- 😄 You can download my CV [here](https://github.com/Drete457/Drete457/blob/master/CV%20-%20Filipe%20Mota.pdf "here").
+- 😄 You can download my CV [here](https://github.com/cmmarques22/cmmarques22/blob/main/Carlos%20Marques%20CV1.pdf "here").
+
 
 ## Technologies I know and I'm learning
 #### Backend
