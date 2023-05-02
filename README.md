@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there!  <img src="http://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png" > 👋
 
 <!--
 **cmmarques22/cmmarques22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Carlos</h1>
+<h1 align="center">Hello there!<img src="http://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png">, I'm Carlos</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmmarques22&label=Profile%20views&color=0e75b6&style=flat" alt="cmmarques22" /> </p>
