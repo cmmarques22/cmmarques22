@@ -1,7 +1,5 @@
 <p align="center">
-  <h1 align="center">Hello there!<img src="http://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png" width=30px, height=30px>, I'm Carlos</h1>
-
-  <h1 align="center">  My name is Carlos Marques 🔥</h1> 
+  <h1 align="center">Hello there!<img src="http://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png" width=30px, height=30px>, I'm Carlos 🔥</h1>
 </p>
 
 - 🔭 I’m currently looking for a opportunity as a Junior Developer;
