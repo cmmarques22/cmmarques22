@@ -1,36 +1,45 @@
-### Hello there!  <img src="http://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png" > 👋
+<p align="center">
+  <h1 align="center">Hello there!<img src="http://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png" width=30px, height=30px>, I'm Carlos</h1>
 
-<!--
-**cmmarques22/cmmarques22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h1 align="center">Hello there!<img src="http://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png">, I'm Carlos</h1>
-<h3 align="center">Full Stack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cmmarques22&label=Profile%20views&color=0e75b6&style=flat" alt="cmmarques22" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carlos--marques" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos--marques" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/carlosmarques2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="carlosmarques2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/carlos_marques22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="carlos_marques22" height="30" width="40" /></a>
+  <h1 align="center">  My name is Carlos Marques 🔥</h1> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently looking for a opportunity as a Junior Developer;
+- 🌱 I’m currently learing Java, JS, SQL and Mobile Development;
+- 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.marques22@live.com)](mailto:carlos.marques22@live.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos--marques/)](https://www.linkedin.com/in/carlos--marques/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351911537956)
+- ⚡ Fun fact about me, I like riding concrete waves;
+- 😄 You can download my CV [here](https://github.com/Drete457/Drete457/blob/master/CV%20-%20Filipe%20Mota.pdf "here").
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmmarques22&show_icons=true&locale=en&layout=compact" alt="cmmarques22" /></p>
+## Technologies I know and I'm learning
+#### Backend
+<p align="left">
+<img src="https://github.com/Drete457/Drete457/raw/master/icons/java-original.svg" alt="java" width="60" height="60"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmmarques22&show_icons=true&locale=en" alt="cmmarques22" /></p>
+#### Frontend
+<p align="left">
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/javascript-original.svg" alt="javascript" width="60" height="60"/>
+</p>
+
+#### Database
+<p align="left">
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/mysql-original.svg" alt="mysql" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
+</p>
+
+## Statistics
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cmmarques22" alt="cmmarques22" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Drete457" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Drete457" height="150" alt="languages graph"  />
+</div>
+
+## Let's connect:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cmmarques22)](https://github.com/cmmarques22)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos--marques/)](https://www.linkedin.com/in/carlos--marques/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=whitelink=mailto:carlos.marques22@live.com)](mailto:carlos.marques22@live.com)
+[![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351911537956)
+
+⭐️ From [Carlos Marques](https://github.com/cmmarques22)
+
