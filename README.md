@@ -4,11 +4,14 @@
 
 - 🔭 I’m currently looking for a opportunity as a Junior Developer;
 - 🌱 I’m currently learing Java, JS, SQL and Mobile Development;
-- 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.marques22@live.com)](mailto:carlos.marques22@live.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos--marques/)](https://www.linkedin.com/in/carlos--marques/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351911537956)
 - ⚡ Fun fact about me, I like riding concrete waves;
 - 😄 You can download my CV [here](https://github.com/cmmarques22/cmmarques22/blob/main/Carlos%20Marques%20CVFSD.pdf "here").
-- 
 
+## Let's connect:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cmmarques22)](https://github.com/cmmarques22)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos--marques/)](https://www.linkedin.com/in/carlos--marques/)
+[![Email Badge](https://img.shields.io/badge/-Email-292929?style=flat-square&logo=Gmail&logoColor=479ef5&link=mailto:carlos.marques22@live.com)](mailto:carlos.marques22@live.com)
+[![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351911537956)
 
 ## Technologies I know and I'm learning
 #### Backend
@@ -35,10 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=cmmarques22" height="150" alt="languages graph" align="left" />
 </div>
 
-## Let's connect:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cmmarques22)](https://github.com/cmmarques22)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos--marques/)](https://www.linkedin.com/in/carlos--marques/)
-[![Email Badge](https://img.shields.io/badge/-Email-292929?style=flat-square&logo=Gmail&logoColor=479ef5&link=mailto:carlos.marques22@live.com)](mailto:carlos.marques22@live.com)
-[![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351911537956)
+
 
 
