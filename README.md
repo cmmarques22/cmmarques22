@@ -16,25 +16,25 @@
 ## Technologies I know and I'm learning
 #### Backend
 <p align="left">
-<img src="https://github.com/Drete457/Drete457/raw/master/icons/java-original.svg" alt="java" width="60" height="60"/>
+<img src="https://github.com/cmmarques22/cmmarques22/blob/main/icons/java-original.svg" alt="java" width="60" height="60"/>
 
 #### Frontend
 <p align="left">
-<img src="https://github.com/Drete457/Drete457/blob/master/icons/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-<img src="https://github.com/Drete457/Drete457/blob/master/icons/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-<img src="https://github.com/Drete457/Drete457/blob/master/icons/javascript-original.svg" alt="javascript" width="60" height="60"/>
+<img src="https://github.com/cmmarques22/cmmarques22/blob/main/icons/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+<img src="https://github.com/cmmarques22/cmmarques22/blob/main/icons/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
+<img src="https://github.com/cmmarques22/cmmarques22/blob/main/icons/javascript-original.svg" alt="javascript" width="60" height="60"/>
 </p>
 
 #### Database
 <p align="left">
-<img src="https://github.com/Drete457/Drete457/blob/master/icons/mysql-original.svg" alt="mysql" width="60" height="60"/>
-<img src="https://github.com/Drete457/Drete457/blob/master/icons/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
+<img src="https://github.com/cmmarques22/cmmarques22/blob/main/icons/mysql-original.svg" alt="mysql" width="60" height="60"/>
+<img src="https://github.com/cmmarques22/cmmarques22/blob/main/icons/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
 </p>
 
 ## Statistics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmmarques22" alt="cmmarques22" /></p>
 <div align="center">
- <!-- <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Drete457" height="150" alt="stats graph"  /> -->
+ <!-- <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=cmmarques22" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=cmmarques22" height="150" alt="languages graph" align="left" />
 </div>
 
