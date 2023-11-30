@@ -5,7 +5,7 @@
 - 🔭 I’m currently looking for a opportunity as a Junior Developer;
 - 🌱 I’m currently learing Java, JS, SQL and Mobile Development;
 - ⚡ Fun fact about me, I like riding concrete waves;
-- 😄 You can download my CV [here](https://github.com/cmmarques22/cmmarques22/blob/main/Carlos%20Marques%20CVFSD.pdf "here").
+- 😄 You can download my CV [here](https://github.com/cmmarques22/cmmarques22/blob/main/Carlos%20Marques%20CV%20FSDev.pdf "here").
 
 ## Let's connect:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cmmarques22)](https://github.com/cmmarques22)
